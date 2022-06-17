@@ -1,0 +1,20 @@
+def show_board(board):
+    '''shows the board of the game'''
+
+    print()
+    print("                            TIC TAC TOE")
+    print()
+    print()
+    print()
+    print("              1              |2              |3")
+    print("                     {}       |       {}       |     {}".format(board[0], board[1], board[2])) 
+    print("                             |               |")
+    print("             ----------------+---------------+-----------")
+    print("             4               |5              |6")
+    print("                     {}       |       {}       |     {}".format(board[3], board[4], board[5]))
+    print("                             |               |")
+    print("             ----------------+---------------+-----------")
+    print("             7               |8              |9")
+    print("                     {}       |       {}       |     {}".format(board[6], board[7], board[8]))
+    print("                             |               |")
+    print()
