@@ -4,3 +4,6 @@ homework to participate in the selection process for the NICE CXone training pro
 to run the program please install Python V3 and add the path license if it's needed
 then open "cmd" or "PowerShell" in Windos and just go to the path where the program is located 
 and type "python tic_tac_toe.py" 
+
+
+The program is in the "master" branch
