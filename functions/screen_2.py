@@ -5,7 +5,7 @@ def present_2():
     print("                   TIC TAC TOE")
     print()
     print()
-    print("                 start letter 'O'")
+    print("                 starts letter 'O'")
     print()
     print("                  Choose: O / X")
     print()
